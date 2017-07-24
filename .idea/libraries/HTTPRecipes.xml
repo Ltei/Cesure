@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HTTPRecipes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/dist/lib/HTTPRecipes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

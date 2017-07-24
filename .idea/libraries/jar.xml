@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/mysql-connector-java-3.1.13-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaHTTPRecipesEdition1/jar/googleapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IntroNeuralNetworks1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jeffheaton-book-code-master/JavaIntroNeuralNetworkEdition2/dist/lib/IntroNeuralNetworks.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/java/cesure/trash" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cesure" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cesure" target="1.5" />
+      <module name="deeplearning4j-aws" target="1.7" />
+      <module name="deeplearning4j-core" target="1.7" />
+      <module name="deeplearning4j-cuda-8.0" target="1.7" />
+      <module name="deeplearning4j-graph" target="1.7" />
+      <module name="deeplearning4j-keras" target="1.7" />
+      <module name="deeplearning4j-modelimport" target="1.7" />
+      <module name="deeplearning4j-nlp" target="1.7" />
+      <module name="deeplearning4j-nlp-japanese" target="1.7" />
+      <module name="deeplearning4j-nlp-korean" target="1.7" />
+      <module name="deeplearning4j-nlp-parent" target="1.7" />
+      <module name="deeplearning4j-nlp-uima" target="1.7" />
+      <module name="deeplearning4j-nn" target="1.7" />
+      <module name="deeplearning4j-parallel-wrapper" target="1.8" />
+      <module name="deeplearning4j-parent" target="1.7" />
+      <module name="deeplearning4j-play_2.11" target="1.8" />
+      <module name="deeplearning4j-scaleout" target="1.7" />
+      <module name="deeplearning4j-scaleout-parallelwrapper-parameter-server" target="1.8" />
+      <module name="deeplearning4j-ui-components" target="1.7" />
+      <module name="deeplearning4j-ui-model" target="1.7" />
+      <module name="deeplearning4j-ui-parent" target="1.7" />
+      <module name="deeplearning4j-ui-remote-iterationlisteners" target="1.7" />
+      <module name="deeplearning4j-ui-resources" target="1.7" />
+      <module name="deeplearning4j-ui_2.11" target="1.7" />
+      <module name="dl4j-spark-nlp_2.11" target="1.7" />
+      <module name="dl4j-spark-parameterserver_2.11" target="1.7" />
+      <module name="dl4j-spark_2.11" target="1.7" />
+      <module name="dl4j-streaming_2.11" target="1.7" />
+      <module name="jackson" target="1.7" />
+      <module name="nd4j" target="1.5" />
+      <module name="nd4j-aeron" target="1.8" />
+      <module name="nd4j-api" target="1.7" />
+      <module name="nd4j-api-parent" target="1.5" />
+      <module name="nd4j-backend-impls" target="1.5" />
+      <module name="nd4j-backends" target="1.5" />
+      <module name="nd4j-base64" target="1.7" />
+      <module name="nd4j-buffer" target="1.7" />
+      <module name="nd4j-bytebuddy" target="1.7" />
+      <module name="nd4j-camel-routes" target="1.5" />
+      <module name="nd4j-common" target="1.7" />
+      <module name="nd4j-context" target="1.7" />
+      <module name="nd4j-cuda-8.0" target="1.7" />
+      <module name="nd4j-cuda-8.0-platform" target="1.7" />
+      <module name="nd4j-gson" target="1.7" />
+      <module name="nd4j-instrumentation" target="1.7" />
+      <module name="nd4j-jackson" target="1.7" />
+      <module name="nd4j-jdbc" target="1.7" />
+      <module name="nd4j-jdbc-api" target="1.7" />
+      <module name="nd4j-jdbc-mysql" target="1.7" />
+      <module name="nd4j-kafka_2.10" target="1.7" />
+      <module name="nd4j-kryo_2.10" target="1.7" />
+      <module name="nd4j-native" target="1.7" />
+      <module name="nd4j-native-api" target="1.7" />
+      <module name="nd4j-native-platform" target="1.7" />
+      <module name="nd4j-parameter-server" target="1.8" />
+      <module name="nd4j-parameter-server-client" target="1.8" />
+      <module name="nd4j-parameter-server-model" target="1.8" />
+      <module name="nd4j-parameter-server-node_2.10" target="1.8" />
+      <module name="nd4j-parameter-server-parent" target="1.8" />
+      <module name="nd4j-parameter-server-rocksdb-storage" target="1.8" />
+      <module name="nd4j-parameter-server-status_2.10" target="1.8" />
+      <module name="nd4j-perf" target="1.7" />
+      <module name="nd4j-serde" target="1.5" />
+      <module name="nd4j-shade" target="1.5" />
+      <module name="nd4j-tests" target="1.7" />
+      <module name="spark_2.11" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
